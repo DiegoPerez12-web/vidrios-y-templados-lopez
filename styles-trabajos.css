@@ -227,6 +227,7 @@ body {
 }
 
 /* Sección de Precios */
+/*
 .precios-section {
     margin-top: 5rem;
     padding: 3rem 0;
@@ -307,7 +308,7 @@ body {
     font-weight: 700;
     font-size: 1.125rem;
 }
-
+*/
 .btn-descargar-pdf {
     width: 100%;
     max-width: 500px;
